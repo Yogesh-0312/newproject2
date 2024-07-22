@@ -28,6 +28,7 @@
 
         const title0 = await browser.getTitle();
         console.log(title0);
-      
+       
+        //new line added
     })
 })
