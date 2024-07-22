@@ -30,5 +30,8 @@
         console.log(title0);
        
         //new line added
+        //2nd line added in nav
+        //3rd line added in main
     })
+
 })
